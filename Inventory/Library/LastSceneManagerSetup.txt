@@ -1,0 +1,6 @@
+sceneSetups:
+- path: "C:/Users/Micha\u0142/Desktop/git/RunnerOn3Tracks/3linie - pr\xF3by/Assets/Scenes/SampleScene
+    1.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
